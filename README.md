@@ -1,2 +1,2 @@
 # MachineLearning
-Basic ML algorithms to solve beginners Hackathon
+ML algorithms to solve beginners Hackathon
